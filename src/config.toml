@@ -1,0 +1,20 @@
+pixel_size = 15
+on_color = [50, 205, 50]
+
+[keys]
+key_0 = "X"
+key_1 = "Key1"
+key_2 = "Key2"
+key_3 = "Key3"
+key_4 = "Q"
+key_5 = "W"
+key_6 = "E"
+key_7 = "A"
+key_8 = "S"
+key_9 = "D"
+key_a = "Y"
+key_b = "C"
+key_c = "Key4"
+key_d = "R"
+key_e = "F"
+key_f = "V"
